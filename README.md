@@ -1,2 +1,5 @@
 ### vocabulary accumulation for front-end
-+ trailing slash 反斜杠
+
+words|meaning|words|meaning
+|:-|:-|:-|:-|
+ trailing slash|反斜杠|comma|逗号
